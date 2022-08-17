@@ -46,7 +46,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "standardmäßig ein Mensch. Unter Pawn Kinds gibts mehr Optionen.",
+    "description": "Standard ist ein Mensch. Unter Pawn Kinds gibts mehr Optionen. Die Entsprechung dann an den Command anfügen.",
     "name": "Pawn kaufen",
     "usage": "!buy pawn",
     "userLevel": "Anyone",
