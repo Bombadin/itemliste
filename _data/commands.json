@@ -89,6 +89,42 @@
     "shortcut": false,
     "defName": "Buy"
   },
+    {
+    "data": {
+      "isShortcut": false,
+      "isBuy": true,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Die Namen der Traits findest du im Reiter Traits.Maximale Traits: 4.",
+    "name": "Trait kaufen",
+    "usage": "!buy trait NamedesTraits",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Buy"
+  },
+       {
+    "data": {
+      "isShortcut": false,
+      "isBuy": true,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Die Namen der Traits findest du im Reiter Traits.",
+    "name": "Trait entfernen",
+    "usage": "!buy removetrait NamedesTraits",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Buy"
+  },
   {
     "data": {
       "isShortcut": false,
