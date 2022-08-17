@@ -658,13 +658,13 @@
       "abr": "milch",
       "category": "Tierische Produkte",
       "defname": "Milk",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "insektengelee",
       "category": "Tierische Produkte",
       "defname": "InsectJelly",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "hühnerei(unbefr.)",
@@ -1546,367 +1546,367 @@
       "abr": "grizzlybär",
       "category": "Tiere",
       "defname": "Bear_Grizzly",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "eisbär",
       "category": "Tiere",
       "defname": "Bear_Polar",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "strauß",
       "category": "Tiere",
       "defname": "Ostrich",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "emu",
       "category": "Tiere",
       "defname": "Emu",
-      "price": 312
+      "price": -10
     },
     {
       "abr": "kasuar",
       "category": "Tiere",
       "defname": "Cassowary",
-      "price": 314
+      "price": -10
     },
     {
       "abr": "puma",
       "category": "Tiere",
       "defname": "Cougar",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "panther",
       "category": "Tiere",
       "defname": "Panther",
-      "price": 692
+      "price": -10
     },
     {
       "abr": "luchs",
       "category": "Tiere",
       "defname": "Lynx",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "katze",
       "category": "Tiere",
       "defname": "Cat",
-      "price": 163
+      "price": -10
     },
     {
       "abr": "yorkshireterrier",
       "category": "Tiere",
       "defname": "YorkshireTerrier",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "meerschweinchen",
       "category": "Tiere",
       "defname": "GuineaPig",
-      "price": 233
+      "price": -10
     },
     {
       "abr": "labradorretriever",
       "category": "Tiere",
       "defname": "LabradorRetriever",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "husky",
       "category": "Tiere",
       "defname": "Husky",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "affe",
       "category": "Tiere",
       "defname": "Monkey",
-      "price": 175
+      "price": -10
     },
     {
       "abr": "huhn",
       "category": "Tiere",
       "defname": "Chicken",
-      "price": 80
+      "price": -10
     },
     {
       "abr": "ente",
       "category": "Tiere",
       "defname": "Duck",
-      "price": 94
+      "price": -10
     },
     {
       "abr": "truthahn",
       "category": "Tiere",
       "defname": "Turkey",
-      "price": 151
+      "price": -10
     },
     {
       "abr": "gans",
       "category": "Tiere",
       "defname": "Goose",
-      "price": 135
+      "price": -10
     },
     {
       "abr": "rind",
       "category": "Tiere",
       "defname": "Cow",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "boomalope",
       "category": "Tiere",
       "defname": "Boomalope",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "muffalo",
       "category": "Tiere",
       "defname": "Muffalo",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "bison",
       "category": "Tiere",
       "defname": "Bison",
-      "price": 542
+      "price": -10
     },
     {
       "abr": "dromedar",
       "category": "Tiere",
       "defname": "Dromedary",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "ziege",
       "category": "Tiere",
       "defname": "Goat",
-      "price": 327
+      "price": -10
     },
     {
       "abr": "elch",
       "category": "Tiere",
       "defname": "Elk",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "yak",
       "category": "Tiere",
       "defname": "Yak",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "rentier",
       "category": "Tiere",
       "defname": "Caribou",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "pferd",
       "category": "Tiere",
       "defname": "Horse",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "esel",
       "category": "Tiere",
       "defname": "Donkey",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "elefant",
       "category": "Tiere",
       "defname": "Elephant",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "nashorn",
       "category": "Tiere",
       "defname": "Rhinoceros",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "hase",
       "category": "Tiere",
       "defname": "Hare",
-      "price": 77
+      "price": -10
     },
     {
       "abr": "schneehase",
       "category": "Tiere",
       "defname": "Snowhare",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "riesenskarabäus",
       "category": "Tiere",
       "defname": "Megascarab",
-      "price": 164
+      "price": -10
     },
     {
       "abr": "höhlenkäfer",
       "category": "Tiere",
       "defname": "Spelopede",
-      "price": 327
+      "price": -10
     },
     {
       "abr": "riesenspinne",
       "category": "Tiere",
       "defname": "Megaspider",
-      "price": 883
+      "price": -10
     },
     {
       "abr": "thrumbo",
       "category": "Tiere",
       "defname": "Thrumbo",
-      "price": 6533
+      "price": -10
     },
     {
       "abr": "kobra",
       "category": "Tiere",
       "defname": "Cobra",
-      "price": 226
+      "price": -10
     },
     {
       "abr": "schildkröte",
       "category": "Tiere",
       "defname": "Tortoise",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "alphabiber",
       "category": "Tiere",
       "defname": "Alphabeaver",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "schwein",
       "category": "Tiere",
       "defname": "Pig",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "wildschwein",
       "category": "Tiere",
       "defname": "WildBoar",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "steinbock",
       "category": "Tiere",
       "defname": "Ibex",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "rotwild",
       "category": "Tiere",
       "defname": "Deer",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "gazelle",
       "category": "Tiere",
       "defname": "Gazelle",
-      "price": 249
+      "price": -10
     },
     {
       "abr": "chinchilla",
       "category": "Tiere",
       "defname": "Chinchilla",
-      "price": 243
+      "price": -10
     },
     {
       "abr": "schaf",
       "category": "Tiere",
       "defname": "Sheep",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "alpaka",
       "category": "Tiere",
       "defname": "Alpaca",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "riesenfaultier",
       "category": "Tiere",
       "defname": "Megasloth",
-      "price": 1183
+      "price": -10
     },
     {
       "abr": "wasserschwein",
       "category": "Tiere",
       "defname": "Capybara",
-      "price": 249
+      "price": -10
     },
     {
       "abr": "eichhörnchen",
       "category": "Tiere",
       "defname": "Squirrel",
-      "price": 54
+      "price": -10
     },
     {
       "abr": "ratte",
       "category": "Tiere",
       "defname": "Rat",
-      "price": 55
+      "price": -10
     },
     {
       "abr": "boomratte",
       "category": "Tiere",
       "defname": "Boomrat",
-      "price": 162
+      "price": -10
     },
     {
       "abr": "waschbär",
       "category": "Tiere",
       "defname": "Raccoon",
-      "price": 157
+      "price": -10
     },
     {
       "abr": "leguan",
       "category": "Tiere",
       "defname": "Iguana",
-      "price": 166
+      "price": -10
     },
     {
       "abr": "warg",
       "category": "Tiere",
       "defname": "Warg",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "timberwolf",
       "category": "Tiere",
       "defname": "Wolf_Timber",
-      "price": 542
+      "price": -10
     },
     {
       "abr": "polarwolf",
       "category": "Tiere",
       "defname": "Wolf_Arctic",
-      "price": 608
+      "price": -10
     },
     {
       "abr": "wüstenfuchs",
       "category": "Tiere",
       "defname": "Fox_Fennec",
-      "price": 326
+      "price": -10
     },
     {
       "abr": "rotfuchs",
       "category": "Tiere",
       "defname": "Fox_Red",
-      "price": 328
+      "price": -10
     },
     {
       "abr": "polarfuchs",
       "category": "Tiere",
       "defname": "Fox_Arctic",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "psycho-sensibilisierer",
@@ -3178,7 +3178,7 @@
       "abr": "blackhiveinsektengelee",
       "category": "Tierische Produkte",
       "defname": "AA_BlackInsectJelly",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "medizinischerstachel",
@@ -3190,13 +3190,13 @@
       "abr": "blauemilch",
       "category": "Tierische Produkte",
       "defname": "AA_BlueMilk",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "zuhmilch",
       "category": "Tierische Produkte",
       "defname": "AA_GowMilk",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "ekelhaftenährstoffpaste",
@@ -3400,781 +3400,781 @@
       "abr": "stachelamöbe,klein",
       "category": "Tiere",
       "defname": "AA_AcanthamoebaGiganteaSmall",
-      "price": 245
+      "price": -10
     },
     {
       "abr": "stachelamöbe,groß",
       "category": "Tiere",
       "defname": "AA_AcanthamoebaGiganteaLarge",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "stachelamöbe,riesig",
       "category": "Tiere",
       "defname": "AA_AcanthamoebaGiganteaHuge",
-      "price": 983
+      "price": -10
     },
     {
       "abr": "aerofleet",
       "category": "Tiere",
       "defname": "AA_Aerofleet",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "riesigeraerofleet",
       "category": "Tiere",
       "defname": "AA_ColossalAerofleet",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "pilzbewohner",
       "category": "Tiere",
       "defname": "AA_Agaripawn",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "pilzlord",
       "category": "Tiere",
       "defname": "AA_Agaripod",
-      "price": 808
+      "price": -10
     },
     {
       "abr": "engelsmottenlarve",
       "category": "Tiere",
       "defname": "AA_AngelMothLarva",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "engelsmotte",
       "category": "Tiere",
       "defname": "AA_AngelMoth",
-      "price": 708
+      "price": -10
     },
     {
       "abr": "animakoloss",
       "category": "Tiere",
       "defname": "AA_AnimaColossus",
-      "price": 1067
+      "price": -10
     },
     {
       "abr": "animalisk",
       "category": "Tiere",
       "defname": "AA_Animalisk",
-      "price": 817
+      "price": -10
     },
     {
       "abr": "animusfuchs",
       "category": "Tiere",
       "defname": "AA_AnimusVox",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "arktischerlöwe",
       "category": "Tiere",
       "defname": "AA_ArcticLion",
-      "price": 992
+      "price": -10
     },
     {
       "abr": "atispeclarve",
       "category": "Tiere",
       "defname": "AA_LarvalAtispec",
-      "price": 22
+      "price": -10
     },
     {
       "abr": "atispec",
       "category": "Tiere",
       "defname": "AA_Atispec",
-      "price": 2017
+      "price": -10
     },
     {
       "abr": "aurorasylph",
       "category": "Tiere",
       "defname": "AA_AuroraSylph",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "barbslinger",
       "category": "Tiere",
       "defname": "AA_Barbslinger",
-      "price": 858
+      "price": -10
     },
     {
       "abr": "wanze",
       "category": "Tiere",
       "defname": "AA_BedBug",
-      "price": 172
+      "price": -10
     },
     {
       "abr": "schwarzerskarabäu",
       "category": "Tiere",
       "defname": "AA_BlackScarab",
-      "price": 239
+      "price": -10
     },
     {
       "abr": "schwarzespelopede",
       "category": "Tiere",
       "defname": "AA_BlackSpelopede",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "schwarzespinne",
       "category": "Tiere",
       "defname": "AA_BlackSpider",
-      "price": 967
+      "price": -10
     },
     {
       "abr": "blizzarisk",
       "category": "Tiere",
       "defname": "AA_Blizzarisk",
-      "price": 858
+      "price": -10
     },
     {
       "abr": "blizzariskenbrutmutter",
       "category": "Tiere",
       "defname": "AA_BlizzariskClutchMother",
-      "price": 1575
+      "price": -10
     },
     {
       "abr": "blutgarnele",
       "category": "Tiere",
       "defname": "AA_BloodShrimp",
-      "price": 725
+      "price": -10
     },
     {
       "abr": "felsenkrabbe",
       "category": "Tiere",
       "defname": "AA_BoulderMit",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "gipfelkrabbe",
       "category": "Tiere",
       "defname": "AA_SummitCrab",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "hummel",
       "category": "Tiere",
       "defname": "AA_Bumbledrone",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "hummelhierophant",
       "category": "Tiere",
       "defname": "AA_BumbledroneHierophant",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "hummelkönigin",
       "category": "Tiere",
       "defname": "AA_BumbledroneQueen",
-      "price": 708
+      "price": -10
     },
     {
       "abr": "kakteenkiefer",
       "category": "Tiere",
       "defname": "AA_Cactipine",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "chamäleonyak",
       "category": "Tiere",
       "defname": "AA_ChameleonYak",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "chemzinmyrmidon",
       "category": "Tiere",
       "defname": "AA_ChemfuelMyrmidon",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "cinderlisk",
       "category": "Tiere",
       "defname": "AA_Cinderlisk",
-      "price": 942
+      "price": -10
     },
     {
       "abr": "dämmerungskäfer",
       "category": "Tiere",
       "defname": "AA_CrepuscularBeetle",
-      "price": 1075
+      "price": -10
     },
     {
       "abr": "wachsendeechse",
       "category": "Tiere",
       "defname": "AA_CrescendoAnole",
-      "price": 775
+      "price": -10
     },
     {
       "abr": "kristallkarakal",
       "category": "Tiere",
       "defname": "AA_CrystallineCaracal",
-      "price": 1642
+      "price": -10
     },
     {
       "abr": "kristalkrabe",
       "category": "Tiere",
       "defname": "AA_CrystalMit",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "dunkelbestie",
       "category": "Tiere",
       "defname": "AA_Darkbeast",
-      "price": 1225
+      "price": -10
     },
     {
       "abr": "fäulnisdrache",
       "category": "Tiere",
       "defname": "AA_DecayDrake",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "wüstenave",
       "category": "Tiere",
       "defname": "AA_DesertAve",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "teufelsschaf",
       "category": "Tiere",
       "defname": "AA_DevilSheep",
-      "price": 1433
+      "price": -10
     },
     {
       "abr": "drainerlarve",
       "category": "Tiere",
       "defname": "AA_DrainerLarva",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "drainer",
       "category": "Tiere",
       "defname": "AA_Drainer",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "dunealisk",
       "category": "Tiere",
       "defname": "AA_Dunealisk",
-      "price": 825
+      "price": -10
     },
     {
       "abr": "dunealiskbrutmutter",
       "category": "Tiere",
       "defname": "AA_DunealiskClutchMother",
-      "price": 1542
+      "price": -10
     },
     {
       "abr": "nachtrattet",
       "category": "Tiere",
       "defname": "AA_DuskRat",
-      "price": 54
+      "price": -10
     },
     {
       "abr": "empressbutterflylarva",
       "category": "Tiere",
       "defname": "AA_EmpressButterflyLarva",
-      "price": 85
+      "price": -10
     },
     {
       "abr": "empressbutterfly",
       "category": "Tiere",
       "defname": "AA_EmpressButterfly",
-      "price": 967
+      "price": -10
     },
     {
       "abr": "gefährlichetentakelanomalie",
       "category": "Tiere",
       "defname": "AA_EngorgedTentacularAberration",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "erinhyäne",
       "category": "Tiere",
       "defname": "AA_Erin",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "äuglein",
       "category": "Tiere",
       "defname": "AA_Eyeling",
-      "price": 157
+      "price": -10
     },
     {
       "abr": "feralisk",
       "category": "Tiere",
       "defname": "AA_Feralisk",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "feraliskbrutmutter",
       "category": "Tiere",
       "defname": "AA_FeraliskClutchMother",
-      "price": 1425
+      "price": -10
     },
     {
       "abr": "feuerwespe",
       "category": "Tiere",
       "defname": "AA_FireWasp",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "spaltungsmaus",
       "category": "Tiere",
       "defname": "AA_FissionMouse",
-      "price": 55
+      "price": -10
     },
     {
       "abr": "spaltungsmaus,zweitegeneration",
       "category": "Tiere",
       "defname": "AA_FissionMouseSecond",
-      "price": 59
+      "price": -10
     },
     {
       "abr": "spaltungsmaus,drittegeneration",
       "category": "Tiere",
       "defname": "AA_FissionMouseThird",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "flamingophoenix",
       "category": "Tiere",
       "defname": "AA_FlamingoPhoenix",
-      "price": 314
+      "price": -10
     },
     {
       "abr": "frostave",
       "category": "Tiere",
       "defname": "AA_FrostAve",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "frostigerbehemoth",
       "category": "Tiere",
       "defname": "AA_FrostboundBehemoth",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "frostling",
       "category": "Tiere",
       "defname": "AA_Frostling",
-      "price": 1133
+      "price": -10
     },
     {
       "abr": "frostlynx",
       "category": "Tiere",
       "defname": "AA_FrostLynx",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "frostmilbe",
       "category": "Tiere",
       "defname": "AA_Frostmite",
-      "price": 175
+      "price": -10
     },
     {
       "abr": "pilzschale",
       "category": "Tiere",
       "defname": "AA_FungalHusk",
-      "price": 234
+      "price": -10
     },
     {
       "abr": "gallatross",
       "category": "Tiere",
       "defname": "AA_Gallatross",
-      "price": 6483
+      "price": -10
     },
     {
       "abr": "sterbendegallatross",
       "category": "Tiere",
       "defname": "AA_GallatrossMoribund",
-      "price": 1700
+      "price": -10
     },
     {
       "abr": "genix",
       "category": "Tiere",
       "defname": "AA_Genix",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "giantcrownedsilkie",
       "category": "Tiere",
       "defname": "AA_GiantCrownedSilkie",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "gigantelope",
       "category": "Tiere",
       "defname": "AA_Gigantelope",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "großerverschlinger",
       "category": "Tiere",
       "defname": "AA_GreatDevourer",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "grünschleim",
       "category": "Tiere",
       "defname": "AA_GreenGoo",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "graumantelschaf",
       "category": "Tiere",
       "defname": "AA_GreyCoatedMouflon",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "wegbereiter",
       "category": "Tiere",
       "defname": "AA_Groundrunner",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "helixien",
       "category": "Tiere",
       "defname": "AA_Helixien",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "infizierteraerofleet",
       "category": "Tiere",
       "defname": "AA_InfectedAerofleet",
-      "price": 293
+      "price": -10
     },
     {
       "abr": "eisenhutkäfer",
       "category": "Tiere",
       "defname": "AA_IronhuskBeetle",
-      "price": 1217
+      "price": -10
     },
     {
       "abr": "dschungellisk",
       "category": "Tiere",
       "defname": "AA_Junglelisk",
-      "price": 933
+      "price": -10
     },
     {
       "abr": "lockjaw",
       "category": "Tiere",
       "defname": "AA_Lockjaw",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "luziferiumkäfer",
       "category": "Tiere",
       "defname": "AA_LuciferBug",
-      "price": 1700
+      "price": -10
     },
     {
       "abr": "mammutwurm",
       "category": "Tiere",
       "defname": "AA_MammothWorm",
-      "price": 1017
+      "price": -10
     },
     {
       "abr": "manfalle",
       "category": "Tiere",
       "defname": "AA_Mantrap",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "reifefleischbestie",
       "category": "Tiere",
       "defname": "AA_MatureFleshbeast",
-      "price": 900
+      "price": -10
     },
     {
       "abr": "wiesenave",
       "category": "Tiere",
       "defname": "AA_MeadowAve",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "megalaus",
       "category": "Tiere",
       "defname": "AA_MegaLouse",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "metalliebhaber",
       "category": "Tiere",
       "defname": "AA_Metallovore",
-      "price": 233
+      "price": -10
     },
     {
       "abr": "mime",
       "category": "Tiere",
       "defname": "AA_Mime",
-      "price": 1625
+      "price": -10
     },
     {
       "abr": "pilzigerkoloss",
       "category": "Tiere",
       "defname": "AA_MycoidColossus",
-      "price": 875
+      "price": -10
     },
     {
       "abr": "stachelpfosten",
       "category": "Tiere",
       "defname": "AA_Needlepost",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "stachelball",
       "category": "Tiere",
       "defname": "AA_Needleroll",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "nachtmaultier",
       "category": "Tiere",
       "defname": "AA_NightMule",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "nachtave",
       "category": "Tiere",
       "defname": "AA_NightAve",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "nachtling",
       "category": "Tiere",
       "defname": "AA_Nightling",
-      "price": 1192
+      "price": -10
     },
     {
       "abr": "nachtrammer",
       "category": "Tiere",
       "defname": "AA_NightRam",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "augenqualle",
       "category": "Tiere",
       "defname": "AA_OcularJelly",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "augennachtling",
       "category": "Tiere",
       "defname": "AA_OcularNightling",
-      "price": 1317
+      "price": -10
     },
     {
       "abr": "überwachsenerkoloss",
       "category": "Tiere",
       "defname": "AA_OvergrownColossus",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "kieselkrabbe",
       "category": "Tiere",
       "defname": "AA_PebbleMit",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "premiumraptor",
       "category": "Tiere",
       "defname": "AA_PedigreedRaptor",
-      "price": 1575
+      "price": -10
     },
     {
       "abr": "phönixeulenkatze",
       "category": "Tiere",
       "defname": "AA_PhoenixOwlcat",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "plasmorph",
       "category": "Tiere",
       "defname": "AA_Plasmorph",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "radyak",
       "category": "Tiere",
       "defname": "AA_Radyak",
-      "price": 3825
+      "price": -10
     },
     {
       "abr": "raptorgarnele",
       "category": "Tiere",
       "defname": "AA_RaptorShrimp",
-      "price": 1183
+      "price": -10
     },
     {
       "abr": "verwüster",
       "category": "Tiere",
       "defname": "AA_Ravager",
-      "price": 231
+      "price": -10
     },
     {
       "abr": "strahlenhund",
       "category": "Tiere",
       "defname": "AA_RayHound",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "razorjack",
       "category": "Tiere",
       "defname": "AA_Razorjack",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "rotschleim",
       "category": "Tiere",
       "defname": "AA_RedGoo",
-      "price": 246
+      "price": -10
     },
     {
       "abr": "rotespore",
       "category": "Tiere",
       "defname": "AA_RedSpore",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "insektenschälerhund",
       "category": "Tiere",
       "defname": "AA_RipperHound",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "rauhhaarwaran",
       "category": "Tiere",
       "defname": "AA_RoughPlatedMonitor",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "königlicherave",
       "category": "Tiere",
       "defname": "AA_RoyalAve",
-      "price": 1233
+      "price": -10
     },
     {
       "abr": "sandlöwe",
       "category": "Tiere",
       "defname": "AA_SandLion",
-      "price": 967
+      "price": -10
     },
     {
       "abr": "sandwühler",
       "category": "Tiere",
       "defname": "AA_SandProwler",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "sandkalmar",
       "category": "Tiere",
       "defname": "AA_SandSquid",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "schockziege",
       "category": "Tiere",
       "defname": "AA_ShockGoat",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "sprunghund",
       "category": "Tiere",
       "defname": "AA_Skiphound",
-      "price": 1300
+      "price": -10
     },
     {
       "abr": "arkturischerhimmelsaal",
       "category": "Tiere",
       "defname": "AA_Skyeel",
-      "price": 220
+      "price": -10
     },
     {
       "abr": "schlammfüssler",
       "category": "Tiere",
       "defname": "AA_Slurrypede",
-      "price": 1092
+      "price": -10
     },
     {
       "abr": "stacheligezuh",
       "category": "Tiere",
       "defname": "AA_SpinedGow",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "schwarmling",
       "category": "Tiere",
       "defname": "AA_Swarmling",
-      "price": 57
+      "price": -10
     },
     {
       "abr": "teerfresser",
       "category": "Tiere",
       "defname": "AA_TarGuzzler",
-      "price": 245
+      "price": -10
     },
     {
       "abr": "teratogenetischerbegründer",
       "category": "Tiere",
       "defname": "AA_TeratogenicOriginator",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "terramorph",
       "category": "Tiere",
       "defname": "AA_Terramorph",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "tetra-schnecke",
       "category": "Tiere",
       "defname": "AA_TetraSlug",
-      "price": 7217
+      "price": -10
     },
     {
       "abr": "thermadon",
       "category": "Tiere",
       "defname": "AA_Thermadon",
-      "price": 1058
+      "price": -10
     },
     {
       "abr": "donnerbestie",
       "category": "Tiere",
       "defname": "AA_Thunderbeast",
-      "price": 1208
+      "price": -10
     },
     {
       "abr": "nichtblinzelndesauge",
       "category": "Tiere",
       "defname": "AA_UnblinkingEye",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "eigenwilligermobilerassembler",
       "category": "Animal",
       "defname": "AA_WaywardMobileAssembler",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "pilzling",
       "category": "Tiere",
       "defname": "AA_Wildpawn",
-      "price": 323
+      "price": -10
     },
     {
       "abr": "pilzor",
       "category": "Tiere",
       "defname": "AA_Wildpod",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "windbeast",
       "category": "Tiere",
       "defname": "AA_WindBeast",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "electricpot",
@@ -5332,7 +5332,7 @@
       "abr": "ungefesseltedryade",
       "category": "Tiere",
       "defname": "AM_UnshackledDryad",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "saugroboter",
@@ -6178,7 +6178,7 @@
       "abr": "sivatheriummilk",
       "category": "Tierische Produkte",
       "defname": "SivatheriumMilk",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "dinornisegg(fert.)",
@@ -6250,229 +6250,229 @@
       "abr": "arthropleura",
       "category": "Tiere",
       "defname": "Arthropleura",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "doedicurus",
       "category": "Tiere",
       "defname": "Doedicurus",
-      "price": 1767
+      "price": -10
     },
     {
       "abr": "daeodon",
       "category": "Tiere",
       "defname": "Daeodon",
-      "price": 2842
+      "price": -10
     },
     {
       "abr": "gigantopithecus",
       "category": "Tiere",
       "defname": "Gigantopithecus",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "paraceratherium",
       "category": "Tiere",
       "defname": "Paraceratherium",
-      "price": 6208
+      "price": -10
     },
     {
       "abr": "titanis",
       "category": "Tiere",
       "defname": "Titanis",
-      "price": 1550
+      "price": -10
     },
     {
       "abr": "titanoboa",
       "category": "Tiere",
       "defname": "Titanoboa",
-      "price": 4650
+      "price": -10
     },
     {
       "abr": "woollymammoth",
       "category": "Tiere",
       "defname": "WoollyMammoth",
-      "price": 2792
+      "price": -10
     },
     {
       "abr": "elasmotherium",
       "category": "Tiere",
       "defname": "Elasmotherium",
-      "price": 2267
+      "price": -10
     },
     {
       "abr": "smilodon",
       "category": "Tiere",
       "defname": "Smilodon",
-      "price": 2025
+      "price": -10
     },
     {
       "abr": "chalicotherium",
       "category": "Tiere",
       "defname": "Chalicotherium",
-      "price": 2192
+      "price": -10
     },
     {
       "abr": "megaloceros",
       "category": "Tiere",
       "defname": "Megaloceros",
-      "price": 1925
+      "price": -10
     },
     {
       "abr": "procoptodon",
       "category": "Tiere",
       "defname": "Procoptodon",
-      "price": 1842
+      "price": -10
     },
     {
       "abr": "megalania",
       "category": "Tiere",
       "defname": "Megalania",
-      "price": 2725
+      "price": -10
     },
     {
       "abr": "gomphotaria",
       "category": "Tiere",
       "defname": "Gomphotaria",
-      "price": 3092
+      "price": -10
     },
     {
       "abr": "diprotodon",
       "category": "Tiere",
       "defname": "Diprotodon",
-      "price": 2208
+      "price": -10
     },
     {
       "abr": "short-facedbear",
       "category": "Tiere",
       "defname": "ShortfacedBear",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "dinocrocuta",
       "category": "Tiere",
       "defname": "Dinocrocuta",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "sivatherium",
       "category": "Tiere",
       "defname": "Sivatherium",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "andrewsarchus",
       "category": "Tiere",
       "defname": "Andrewsarchus",
-      "price": 2958
+      "price": -10
     },
     {
       "abr": "dinornis",
       "category": "Tiere",
       "defname": "Dinornis",
-      "price": 3017
+      "price": -10
     },
     {
       "abr": "macrauchenia",
       "category": "Tiere",
       "defname": "Macrauchenia",
-      "price": 1558
+      "price": -10
     },
     {
       "abr": "quinkana",
       "category": "Tiere",
       "defname": "Quinkana",
-      "price": 3350
+      "price": -10
     },
     {
       "abr": "deinotherium",
       "category": "Tiere",
       "defname": "Deinotherium",
-      "price": 2958
+      "price": -10
     },
     {
       "abr": "aurochs",
       "category": "Tiere",
       "defname": "Aurochs",
-      "price": 1517
+      "price": -10
     },
     {
       "abr": "megalochelys",
       "category": "Tiere",
       "defname": "Megalochelys",
-      "price": 2342
+      "price": -10
     },
     {
       "abr": "palaeeudyptes",
       "category": "Tiere",
       "defname": "Palaeeudyptes",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "josephoartigasia",
       "category": "Tiere",
       "defname": "Josephoartigasia",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "gigantophis",
       "category": "Tiere",
       "defname": "Gigantophis",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "meganeura",
       "category": "Tiere",
       "defname": "Meganeura",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "zygolophodon",
       "category": "Tiere",
       "defname": "Zygolophodon",
-      "price": 3175
+      "price": -10
     },
     {
       "abr": "platybelodon",
       "category": "Tiere",
       "defname": "Platybelodon",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "purussaurus",
       "category": "Tiere",
       "defname": "Purussaurus",
-      "price": 5592
+      "price": -10
     },
     {
       "abr": "uintatherium",
       "category": "Tiere",
       "defname": "Uintatherium",
-      "price": 1525
+      "price": -10
     },
     {
       "abr": "pulmonoscorpius",
       "category": "Tiere",
       "defname": "Pulmonoscorpius",
-      "price": 1742
+      "price": -10
     },
     {
       "abr": "dinopithecus",
       "category": "Tiere",
       "defname": "Dinopithecus",
-      "price": 2075
+      "price": -10
     },
     {
       "abr": "castoroides",
       "category": "Tiere",
       "defname": "Castoroides",
-      "price": 1550
+      "price": -10
     },
     {
       "abr": "enhydriodon",
       "category": "Tiere",
       "defname": "Enhydriodon",
-      "price": 2133
+      "price": -10
     },
     {
       "abr": "bogenschießscheibe",
@@ -6718,73 +6718,73 @@
       "abr": "woollymammoth",
       "category": "Tiere",
       "defname": "RG_WoollyMammoth",
-      "price": 2133
+      "price": -10
     },
     {
       "abr": "woollyrhinoceros",
       "category": "Tiere",
       "defname": "RG_WoollyRhinoceros",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "woollystegosaurus",
       "category": "Tiere",
       "defname": "RG_WoollyStegosaurus",
-      "price": 2458
+      "price": -10
     },
     {
       "abr": "sabertoothsquirrel",
       "category": "Tiere",
       "defname": "RG_SabertoothSquirrel",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "protoceratidae",
       "category": "Tiere",
       "defname": "RG_Protoceratidae",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "dodo",
       "category": "Tiere",
       "defname": "RG_Dodo",
-      "price": 542
+      "price": -10
     },
     {
       "abr": "arcticdrak",
       "category": "Tiere",
       "defname": "RG_ArcticDrak",
-      "price": 3142
+      "price": -10
     },
     {
       "abr": "arcticluizicus",
       "category": "Tiere",
       "defname": "RG_ArcticLuizicus",
-      "price": 2433
+      "price": -10
     },
     {
       "abr": "terrorbird",
       "category": "Tiere",
       "defname": "RG_TerrorBird",
-      "price": 2025
+      "price": -10
     },
     {
       "abr": "megalenhydris",
       "category": "Tiere",
       "defname": "RG_Megalenhydris",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "thrinaxodon",
       "category": "Tiere",
       "defname": "RG_Thrinaxodon",
-      "price": 175
+      "price": -10
     },
     {
       "abr": "velociraptor",
       "category": "Tiere",
       "defname": "RG_Velociraptor",
-      "price": 3350
+      "price": -10
     },
     {
       "abr": "glitzerweltkrankenbett",
@@ -6970,43 +6970,43 @@
       "abr": "coyote",
       "category": "Tiere",
       "defname": "AEXP_Coyote",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "giraffe",
       "category": "Tiere",
       "defname": "AEXP_Giraffe",
-      "price": 1133
+      "price": -10
     },
     {
       "abr": "hippopotamus",
       "category": "Tiere",
       "defname": "AEXP_Hippopotamus",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "zebra",
       "category": "Tiere",
       "defname": "AEXP_Zebra",
-      "price": 1042
+      "price": -10
     },
     {
       "abr": "wildebeest",
       "category": "Tiere",
       "defname": "AEXP_Wildebeest",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "crocodile",
       "category": "Tiere",
       "defname": "AEXP_Crocodile",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "cheetah",
       "category": "Tiere",
       "defname": "AEXP_Cheetah",
-      "price": 725
+      "price": -10
     },
     {
       "abr": "platypusegg(fert.)",
@@ -7024,169 +7024,169 @@
       "abr": "boombat",
       "category": "Tiere",
       "defname": "AEXP_Boombat",
-      "price": 231
+      "price": -10
     },
     {
       "abr": "kangaroo",
       "category": "Tiere",
       "defname": "AEXP_Kangaroo",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "koala",
       "category": "Tiere",
       "defname": "AEXP_Koala",
-      "price": 121
+      "price": -10
     },
     {
       "abr": "platypus",
       "category": "Tiere",
       "defname": "AEXP_Platypus",
-      "price": 181
+      "price": -10
     },
     {
       "abr": "otter",
       "category": "Tiere",
       "defname": "AEXP_Otter",
-      "price": 261
+      "price": -10
     },
     {
       "abr": "arcticcoyote",
       "category": "Tiere",
       "defname": "AEXP_ArcticCoyote",
-      "price": 212
+      "price": -10
     },
     {
       "abr": "blackbear",
       "category": "Tiere",
       "defname": "AEXP_BlackBear",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "abyssiniancat",
       "category": "Tiere",
       "defname": "AEXP_CatAbyssinian",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "bengalcat",
       "category": "Tiere",
       "defname": "AEXP_CatBengal",
-      "price": 294
+      "price": -10
     },
     {
       "abr": "britishshorthaircat",
       "category": "Tiere",
       "defname": "AEXP_CatBritishShorthair",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "mainecoon",
       "category": "Tiere",
       "defname": "AEXP_CatMaineCoon",
-      "price": 1358
+      "price": -10
     },
     {
       "abr": "munchkincat",
       "category": "Tiere",
       "defname": "AEXP_CatMunchkin",
-      "price": 313
+      "price": -10
     },
     {
       "abr": "norwegianforestcat",
       "category": "Tiere",
       "defname": "AEXP_CatNorwegianForest",
-      "price": 318
+      "price": -10
     },
     {
       "abr": "persiancat",
       "category": "Tiere",
       "defname": "AEXP_CatPersian",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "siamesecat",
       "category": "Tiere",
       "defname": "AEXP_CatSiamese",
-      "price": 311
+      "price": -10
     },
     {
       "abr": "somalicat",
       "category": "Tiere",
       "defname": "AEXP_CatSomali",
-      "price": 307
+      "price": -10
     },
     {
       "abr": "sphynxcat",
       "category": "Tiere",
       "defname": "AEXP_CatSphynx",
-      "price": 318
+      "price": -10
     },
     {
       "abr": "beagle",
       "category": "Tiere",
       "defname": "AEXP_Beagle",
-      "price": 143
+      "price": -10
     },
     {
       "abr": "chihuahua",
       "category": "Tiere",
       "defname": "AEXP_Chihuahua",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "corgi",
       "category": "Tiere",
       "defname": "AEXP_Corgi",
-      "price": 1100
+      "price": -10
     },
     {
       "abr": "frenchbulldog",
       "category": "Tiere",
       "defname": "AEXP_FrenchBulldog",
-      "price": 234
+      "price": -10
     },
     {
       "abr": "germanshepherd",
       "category": "Tiere",
       "defname": "AEXP_GermanShepherd",
-      "price": 775
+      "price": -10
     },
     {
       "abr": "greatdane",
       "category": "Tiere",
       "defname": "AEXP_GreatDane",
-      "price": 1075
+      "price": -10
     },
     {
       "abr": "poodle",
       "category": "Tiere",
       "defname": "AEXP_Poodle",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "pug",
       "category": "Tiere",
       "defname": "AEXP_Pug",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "rottweiler",
       "category": "Tiere",
       "defname": "AEXP_Rottweiler",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "shih-tzu",
       "category": "Tiere",
       "defname": "AEXP_Shih-Tzu",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "welshterrier",
       "category": "Tiere",
       "defname": "AEXP_WelshTerrier",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "blindsalamanderegg(fert.)",
@@ -7204,49 +7204,49 @@
       "abr": "ancientgiantspider",
       "category": "Tiere",
       "defname": "VAECaves_AncientGiantSpider",
-      "price": 7000
+      "price": -10
     },
     {
       "abr": "blindsalamander",
       "category": "Tiere",
       "defname": "VAECaves_BlindSalamander",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "cavebear",
       "category": "Tiere",
       "defname": "VAECaves_CaveBear",
-      "price": 1408
+      "price": -10
     },
     {
       "abr": "cavecrawler",
       "category": "Tiere",
       "defname": "VAECaves_CaveCrawler",
-      "price": 2567
+      "price": -10
     },
     {
       "abr": "giantspider",
       "category": "Tiere",
       "defname": "VAECaves_GiantSpider",
-      "price": 1700
+      "price": -10
     },
     {
       "abr": "giantspiderhatchling",
       "category": "Tiere",
       "defname": "VAECaves_GiantSpiderHatchling",
-      "price": 1700
+      "price": -10
     },
     {
       "abr": "insectoidhulk",
       "category": "Tiere",
       "defname": "VAECaves_InsectoidHulk",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "wyrm",
       "category": "Tiere",
       "defname": "VAECaves_Wyrm",
-      "price": 4450
+      "price": -10
     },
     {
       "abr": "deserttortoiseegg(unfert.)",
@@ -7282,25 +7282,25 @@
       "abr": "hyena",
       "category": "Tiere",
       "defname": "AEXP_Hyena",
-      "price": 298
+      "price": -10
     },
     {
       "abr": "deserttortoise",
       "category": "Tiere",
       "defname": "AEXP_DesertTortoise",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "lion",
       "category": "Tiere",
       "defname": "AEXP_Lion",
-      "price": 1800
+      "price": -10
     },
     {
       "abr": "gilamonster",
       "category": "Tiere",
       "defname": "AEXP_GilaMonster",
-      "price": 283
+      "price": -10
     },
     {
       "abr": "moaegg(fert.)",
@@ -7318,67 +7318,67 @@
       "abr": "black-footedferret",
       "category": "Tiere",
       "defname": "AEXP_BlackFootedFerret",
-      "price": 285
+      "price": -10
     },
     {
       "abr": "blackrhinoceros",
       "category": "Tiere",
       "defname": "AEXP_BlackRhino",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "bonobo",
       "category": "Tiere",
       "defname": "AEXP_Bonobo",
-      "price": 314
+      "price": -10
     },
     {
       "abr": "moa",
       "category": "Tiere",
       "defname": "AEXP_Moa",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "giantpanda",
       "category": "Tiere",
       "defname": "AEXP_Panda",
-      "price": 1175
+      "price": -10
     },
     {
       "abr": "quagga",
       "category": "Tiere",
       "defname": "AEXP_Quagga",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "rockhopperpenguin",
       "category": "Tiere",
       "defname": "AEXP_RockhopperPenguin",
-      "price": 183
+      "price": -10
     },
     {
       "abr": "tasmaniandevil",
       "category": "Tiere",
       "defname": "AEXP_TasmanianDevil",
-      "price": 792
+      "price": -10
     },
     {
       "abr": "thylacine",
       "category": "Tiere",
       "defname": "AEXP_Thylacine",
-      "price": 1158
+      "price": -10
     },
     {
       "abr": "africanwilddog",
       "category": "Tiere",
       "defname": "AEXP_AfricanWildDog",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "giantpangolin",
       "category": "Tiere",
       "defname": "AEXP_Pangolin",
-      "price": 1267
+      "price": -10
     },
     {
       "abr": "rattlesnakeegg(unfert.)",
@@ -7402,19 +7402,19 @@
       "abr": "camel",
       "category": "Tiere",
       "defname": "AEXP_Camel",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "rattlesnake",
       "category": "Tiere",
       "defname": "AEXP_Rattlesnake",
-      "price": 312
+      "price": -10
     },
     {
       "abr": "megascorpion",
       "category": "Tiere",
       "defname": "AEXP_Megascorpion",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "walrustusk",
@@ -7444,19 +7444,19 @@
       "abr": "penguin",
       "category": "Tiere",
       "defname": "AEXP_Penguin",
-      "price": 190
+      "price": -10
     },
     {
       "abr": "seal",
       "category": "Tiere",
       "defname": "AEXP_Seal",
-      "price": 284
+      "price": -10
     },
     {
       "abr": "walrus",
       "category": "Tiere",
       "defname": "AEXP_Walrus",
-      "price": 1008
+      "price": -10
     },
     {
       "abr": "wildgooseegg(unfert.)",
@@ -7474,31 +7474,31 @@
       "abr": "redpanda",
       "category": "Tiere",
       "defname": "AEXP_RedPanda",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "badger",
       "category": "Tiere",
       "defname": "AEXP_Badger",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "wildgoose",
       "category": "Tiere",
       "defname": "AEXP_WildGoose",
-      "price": 120
+      "price": -10
     },
     {
       "abr": "beaver",
       "category": "Tiere",
       "defname": "AEXP_Beaver",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "hedgehog",
       "category": "Tiere",
       "defname": "AEXP_Hedgehog",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "tigerleather",
@@ -7510,37 +7510,37 @@
       "abr": "gorilla",
       "category": "Tiere",
       "defname": "AEXP_Gorilla",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "jaguar",
       "category": "Tiere",
       "defname": "AEXP_Jaguar",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "lemur",
       "category": "Tiere",
       "defname": "AEXP_Lemur",
-      "price": 222
+      "price": -10
     },
     {
       "abr": "mandrill",
       "category": "Tiere",
       "defname": "AEXP_Mandrill",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "tapir",
       "category": "Tiere",
       "defname": "AEXP_Tapir",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "tiger",
       "category": "Tiere",
       "defname": "AEXP_Tiger",
-      "price": 1150
+      "price": -10
     },
     {
       "abr": "anacondaegg(fert.)",
@@ -7558,19 +7558,19 @@
       "abr": "alligator",
       "category": "Tiere",
       "defname": "AEXP_Alligator",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "anaconda",
       "category": "Tiere",
       "defname": "AEXP_Anaconda",
-      "price": 1300
+      "price": -10
     },
     {
       "abr": "indianelephant",
       "category": "Tiere",
       "defname": "AEXP_IndianElephant",
-      "price": 1017
+      "price": -10
     },
     {
       "abr": "muskoxwool",
@@ -7582,25 +7582,25 @@
       "abr": "muskox",
       "category": "Tiere",
       "defname": "AEXP_Muskox",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "moose",
       "category": "Tiere",
       "defname": "AEXP_Moose",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "megawolverine",
       "category": "Tiere",
       "defname": "AEXP_MegaWolverine",
-      "price": 1350
+      "price": -10
     },
     {
       "abr": "porcupine",
       "category": "Tiere",
       "defname": "AEXP_Porcupine",
-      "price": 187
+      "price": -10
     },
     {
       "abr": "ancientbed",
@@ -7942,13 +7942,13 @@
       "abr": "royalinsectjelly",
       "category": "Tierische Produkte",
       "defname": "VFEI_RoyalInsectJelly",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "insectmilk",
       "category": "Tierische Produkte",
       "defname": "VFEI_InsectMilk",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "insectoidegg(unfert.)",
@@ -8032,145 +8032,145 @@
       "abr": "insectoidqueen",
       "category": "Tiere",
       "defname": "VFEI_Insectoid_Queen",
-      "price": 2525
+      "price": -10
     },
     {
       "abr": "royalmegaspider",
       "category": "Tiere",
       "defname": "VFEI_Insectoid_RoyalMegaspider",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "gigalocust",
       "category": "Tiere",
       "defname": "VFEI_Insectoid_Gigalocust",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "megapede",
       "category": "Tiere",
       "defname": "VFEI_Insectoid_Megapede",
-      "price": 1325
+      "price": -10
     },
     {
       "abr": "larvae",
       "category": "Tiere",
       "defname": "VFEI_Insectoid_Larvae",
-      "price": 1608
+      "price": -10
     },
     {
       "abr": "vat-grownboomtick",
       "category": "Tiere",
       "defname": "VFEI_VatgrownBoomtick",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "vat-growncuterpillar",
       "category": "Tiere",
       "defname": "VFEI_VatGrownCuterpillar",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "vat-growngigascorpion",
       "category": "Tiere",
       "defname": "VFEI_VatGrownGigascorpion",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "vat-growngigawig",
       "category": "Tiere",
       "defname": "VFEI_VatGrownGigawig",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "vat-grownmegacricket",
       "category": "Tiere",
       "defname": "VFEI_VatGrownMegacricket",
-      "price": 289
+      "price": -10
     },
     {
       "abr": "vat-grownmilkbeetle",
       "category": "Tiere",
       "defname": "VFEI_VatGrownMilkbeetle",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "vat-grownmonstrosity",
       "category": "Tiere",
       "defname": "VFEI_VatGrownMonstrosity",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "vat-grownprincess",
       "category": "Tiere",
       "defname": "VFEI_VatGrownPrincess",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "vat-grownroyallarva",
       "category": "Tiere",
       "defname": "VFEI_VatgrownRoyalLarva",
-      "price": 77
+      "price": -10
     },
     {
       "abr": "vat-grownroyalmaggot",
       "category": "Tiere",
       "defname": "VFEI_VatGrownRoyalMaggot",
-      "price": 276
+      "price": -10
     },
     {
       "abr": "vat-grownspiderweaver",
       "category": "Tiere",
       "defname": "VFEI_VatGrownSpiderweaver",
-      "price": 316
+      "price": -10
     },
     {
       "abr": "vat-growntitanbeetle",
       "category": "Tiere",
       "defname": "VFEI_VatGrownTitanbeetle",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "vat-growngigalocust",
       "category": "Tiere",
       "defname": "VFEI_VatGrownGigalocust",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "vat-grownmegapede",
       "category": "Tiere",
       "defname": "VFEI_VatGrownMegapede",
-      "price": 1217
+      "price": -10
     },
     {
       "abr": "vat-grownmegascarab",
       "category": "Tiere",
       "defname": "VFEI_VatGrownMegascarab",
-      "price": 151
+      "price": -10
     },
     {
       "abr": "vat-grownmegaspider",
       "category": "Tiere",
       "defname": "VFEI_VatgrownMegaspider",
-      "price": 817
+      "price": -10
     },
     {
       "abr": "vat-grownspelopede",
       "category": "Tiere",
       "defname": "VFEI_VatGrownSpelopede",
-      "price": 314
+      "price": -10
     },
     {
       "abr": "vat-grownwargling",
       "category": "Tiere",
       "defname": "VFEI_VatGrownWargling",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "vat-grownworkerant",
       "category": "Tiere",
       "defname": "VFEI_VatGrownWorkerAnt",
-      "price": 301
+      "price": -10
     },
     {
       "abr": "warcasketteargasgrenadelauncher",
@@ -9028,61 +9028,61 @@
       "abr": "awakenedcarrierdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Carrier",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "awakenedclawerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Clawer",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "awakenedbarkskindryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Barkskin",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "awakenedwoodmakerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Woodmaker",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "awakenedmedicinemakerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Medicinemaker",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "awakenedberrymakerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Berrymaker",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "awakenedstonediggerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Stonedigger",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "awakenednectarmakerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Nectarmaker",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "awakenedspitterdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Spitter",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "awakenedgaubricmakerdryad",
       "category": "Tiere",
       "defname": "VDE_AwakenedDryad_Gaubricmaker",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "amulet",
@@ -10480,7 +10480,7 @@
       "abr": "slurrymaster",
       "category": "Tiere",
       "defname": "VFE_Mech_Slurrymaster",
-      "price": 1367
+      "price": -10
     },
     {
       "abr": "bluecheese",
@@ -11500,7 +11500,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Tiere",
       "defname": "GR_AberrantFleshbeast",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "aberrantmeat",
@@ -11512,7 +11512,7 @@
       "abr": "alphagenome",
       "category": "Genetic materials (tiers 2 and 3)",
       "defname": "GR_AlphaGenetic",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "alphagenomeexcavator",
@@ -11710,13 +11710,13 @@
       "abr": "animushare",
       "category": "Tiere",
       "defname": "GR_AnimusHare",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "archocentipede",
       "category": "Tiere",
       "defname": "GR_ArchotechCentipede",
-      "price": 6980984
+      "price": -10
     },
     {
       "abr": "archocentipedeformer",
@@ -11752,13 +11752,13 @@
       "abr": "aviangenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_AvianGenetic",
-      "price": 14
+      "price": -10
     },
     {
       "abr": "avianparagon",
       "category": "Tiere",
       "defname": "GR_ParagonChicken",
-      "price": 222
+      "price": -10
     },
     {
       "abr": "avianparagonegg(fert.)",
@@ -11782,7 +11782,7 @@
       "abr": "bearbug",
       "category": "Tiere",
       "defname": "GR_BearBug",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "bearbugegg(fert.)",
@@ -11800,13 +11800,13 @@
       "abr": "bearalope",
       "category": "Tiere",
       "defname": "GR_Bearalope",
-      "price": 842
+      "price": -10
     },
     {
       "abr": "bearcat",
       "category": "Tiere",
       "defname": "GR_Bearcat",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "bearcatpelt",
@@ -11818,7 +11818,7 @@
       "abr": "bearchicken",
       "category": "Tiere",
       "defname": "GR_Bearchicken",
-      "price": 140
+      "price": -10
     },
     {
       "abr": "bearchickenegg(fert.)",
@@ -11836,7 +11836,7 @@
       "abr": "bearffalo",
       "category": "Tiere",
       "defname": "GR_Bearffalo",
-      "price": 783
+      "price": -10
     },
     {
       "abr": "bearffalocheese",
@@ -11848,49 +11848,49 @@
       "abr": "bearffalomilk",
       "category": "Tierische Produkte",
       "defname": "GR_BearffaloMilk",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "bearhorse",
       "category": "Tiere",
       "defname": "GR_Bearhorse",
-      "price": 1408
+      "price": -10
     },
     {
       "abr": "bearman",
       "category": "Tiere",
       "defname": "GR_Bearman",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "bearmole",
       "category": "Tiere",
       "defname": "GR_Bearmole",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "bearodile",
       "category": "Tiere",
       "defname": "GR_Bearodile",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "bearscarab",
       "category": "Tiere",
       "defname": "GR_Bearscarab",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "bearwolf",
       "category": "Tiere",
       "defname": "GR_Bearwolf",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "beaverwolf",
       "category": "Tiere",
       "defname": "GR_Beaverwolf",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "beaverwolfcastoreum",
@@ -11902,25 +11902,25 @@
       "abr": "beetlefleet",
       "category": "Tiere",
       "defname": "GR_Beetlefleet",
-      "price": 241
+      "price": -10
     },
     {
       "abr": "boomgenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_BoomalopeGenetic",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "boomabear",
       "category": "Tiere",
       "defname": "GR_Boomabear",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "boomachicken",
       "category": "Tiere",
       "defname": "GR_Boomachicken",
-      "price": 221
+      "price": -10
     },
     {
       "abr": "boomachickenegg(fert.)",
@@ -11938,49 +11938,49 @@
       "abr": "boomalisk",
       "category": "Tiere",
       "defname": "GR_Boomalisk",
-      "price": 892
+      "price": -10
     },
     {
       "abr": "boomalopeparagon",
       "category": "Tiere",
       "defname": "GR_ParagonBoomalope",
-      "price": 900
+      "price": -10
     },
     {
       "abr": "booman",
       "category": "Tiere",
       "defname": "GR_Booman",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "boombeetle",
       "category": "Tiere",
       "defname": "GR_Boombeetle",
-      "price": 817
+      "price": -10
     },
     {
       "abr": "boomcat",
       "category": "Tiere",
       "defname": "GR_Boomcat",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "boomffalo",
       "category": "Tiere",
       "defname": "GR_Boomffalo",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "boomhorse",
       "category": "Tiere",
       "defname": "GR_Boomhorse",
-      "price": 1233
+      "price": -10
     },
     {
       "abr": "boomnotherium",
       "category": "Tiere",
       "defname": "GR_Boomnotherium",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "boom-pustuletrap",
@@ -11992,13 +11992,13 @@
       "abr": "boomsnake",
       "category": "Tiere",
       "defname": "GR_Boomsnake",
-      "price": 642
+      "price": -10
     },
     {
       "abr": "boomsquirrel",
       "category": "Tiere",
       "defname": "GR_Boomsquirrel",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "boomthread",
@@ -12010,7 +12010,7 @@
       "abr": "boomwolf",
       "category": "Tiere",
       "defname": "GR_Boomwolf",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "browncheese",
@@ -12022,13 +12022,13 @@
       "abr": "caninegenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_CanineGenetic",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "canineparagon",
       "category": "Tiere",
       "defname": "GR_ParagonWolf",
-      "price": 1208
+      "price": -10
     },
     {
       "abr": "cargomodule",
@@ -12040,55 +12040,55 @@
       "abr": "catalope",
       "category": "Tiere",
       "defname": "GR_Catalope",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "catbear",
       "category": "Tiere",
       "defname": "GR_Catbear",
-      "price": 194
+      "price": -10
     },
     {
       "abr": "catchicken",
       "category": "Tiere",
       "defname": "GR_Catchicken",
-      "price": 163
+      "price": -10
     },
     {
       "abr": "catffalo",
       "category": "Tiere",
       "defname": "GR_Catffalo",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "cathorse",
       "category": "Tiere",
       "defname": "GR_Cathorse",
-      "price": 1358
+      "price": -10
     },
     {
       "abr": "catman",
       "category": "Tiere",
       "defname": "GR_Catman",
-      "price": 275
+      "price": -10
     },
     {
       "abr": "catrabbit",
       "category": "Tiere",
       "defname": "GR_Catrabbit",
-      "price": 156
+      "price": -10
     },
     {
       "abr": "catwolf",
       "category": "Tiere",
       "defname": "GR_Catwolf",
-      "price": 234
+      "price": -10
     },
     {
       "abr": "chickenbear",
       "category": "Tiere",
       "defname": "GR_Chickenbear",
-      "price": 169
+      "price": -10
     },
     {
       "abr": "chickenbearegg(fert.)",
@@ -12112,7 +12112,7 @@
       "abr": "chickencat",
       "category": "Tiere",
       "defname": "GR_Chickencat",
-      "price": 225
+      "price": -10
     },
     {
       "abr": "chickencategg(fert.)",
@@ -12130,7 +12130,7 @@
       "abr": "chickenffalo",
       "category": "Tiere",
       "defname": "GR_Chickenffalo",
-      "price": 269
+      "price": -10
     },
     {
       "abr": "chickenffalocheese",
@@ -12154,13 +12154,13 @@
       "abr": "chickenffalomilk",
       "category": "Tierische Produkte",
       "defname": "GR_ChickenffaloMilk",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "chickenhorse",
       "category": "Tiere",
       "defname": "GR_Chickenhorse",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "chickenhorseegg(fert.)",
@@ -12178,7 +12178,7 @@
       "abr": "chickenlizard",
       "category": "Tiere",
       "defname": "GR_Chickenlizard",
-      "price": 220
+      "price": -10
     },
     {
       "abr": "chickenlizardegg(fert.)",
@@ -12196,7 +12196,7 @@
       "abr": "chickenlodon",
       "category": "Tiere",
       "defname": "GR_Chickenlodon",
-      "price": 1825
+      "price": -10
     },
     {
       "abr": "chickenlodonegg(fert.)",
@@ -12214,7 +12214,7 @@
       "abr": "chickenlope",
       "category": "Tiere",
       "defname": "GR_Chickenlope",
-      "price": 130
+      "price": -10
     },
     {
       "abr": "chickenlopeegg(fert.)",
@@ -12232,7 +12232,7 @@
       "abr": "chickenrabbit",
       "category": "Tiere",
       "defname": "GR_Chickenrabbit",
-      "price": 62
+      "price": -10
     },
     {
       "abr": "chickenrabbitegg(fert.)",
@@ -12250,7 +12250,7 @@
       "abr": "chickenspider",
       "category": "Tiere",
       "defname": "GR_Chickenspider",
-      "price": 222
+      "price": -10
     },
     {
       "abr": "chickenspideregg(unfert.)",
@@ -12262,7 +12262,7 @@
       "abr": "chickenwolf",
       "category": "Tiere",
       "defname": "GR_Chickenwolf",
-      "price": 234
+      "price": -10
     },
     {
       "abr": "chickenwolfegg(fert.)",
@@ -12286,13 +12286,13 @@
       "abr": "colossalgenome",
       "category": "Genetic materials (tiers 2 and 3)",
       "defname": "GR_ThrumboGenetic",
-      "price": 1642
+      "price": -10
     },
     {
       "abr": "colossalparagon",
       "category": "Tiere",
       "defname": "GR_ParagonThrumbo",
-      "price": 7933
+      "price": -10
     },
     {
       "abr": "controller",
@@ -12310,7 +12310,7 @@
       "abr": "crocorse",
       "category": "Tiere",
       "defname": "GR_Crocorse",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "deepchem",
@@ -12334,19 +12334,19 @@
       "abr": "doedicoon",
       "category": "Tiere",
       "defname": "GR_Doedicoon",
-      "price": 321
+      "price": -10
     },
     {
       "abr": "dogman",
       "category": "Tiere",
       "defname": "GR_Dogman",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "elasmobearium",
       "category": "Tiere",
       "defname": "GR_Elasmobearium",
-      "price": 2225
+      "price": -10
     },
     {
       "abr": "electrowomb",
@@ -12364,13 +12364,13 @@
       "abr": "equinegenome",
       "category": "Genetic materials (tiers 2 and 3)",
       "defname": "GR_EquineGenetic",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "equineparagon",
       "category": "Tiere",
       "defname": "GR_ParagonHorse",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "extractedbraindata",
@@ -12388,13 +12388,13 @@
       "abr": "felinegenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_FelineGenetic",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "felineparagon",
       "category": "Tiere",
       "defname": "GR_ParagonFeline",
-      "price": 1408
+      "price": -10
     },
     {
       "abr": "fertilityunblocker",
@@ -12412,25 +12412,25 @@
       "abr": "fleshflies",
       "category": "Tiere",
       "defname": "GR_FleshFlies",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "fleshgrowth",
       "category": "Tiere",
       "defname": "GR_FleshGrowth",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Tiere",
       "defname": "GR_FleshMonstrosity",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "fleshling",
       "category": "Tiere",
       "defname": "GR_Fleshling",
-      "price": 14
+      "price": -10
     },
     {
       "abr": "geneticstinkeringtable",
@@ -12526,13 +12526,13 @@
       "abr": "greenmilk",
       "category": "Tierische Produkte",
       "defname": "GR_GreenMilk",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "groundffalo",
       "category": "Tiere",
       "defname": "GR_Groundffalo",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "growingmodule",
@@ -12562,7 +12562,7 @@
       "abr": "hairymilk",
       "category": "Tierische Produkte",
       "defname": "GR_WolffaloMilk",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "harmonobooster",
@@ -12766,19 +12766,19 @@
       "abr": "humanoidgenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_HumanoidGenetic",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "humanoidparagon",
       "category": "Tiere",
       "defname": "GR_ParagonHumanoid",
-      "price": 1408
+      "price": -10
     },
     {
       "abr": "hurseman",
       "category": "Tiere",
       "defname": "GR_Hurseman",
-      "price": 1283
+      "price": -10
     },
     {
       "abr": "hybridchitin",
@@ -12832,13 +12832,13 @@
       "abr": "insectoidgenome",
       "category": "Genetic materials (tiers 2 and 3)",
       "defname": "GR_InsectoidGenetic",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "insectoidparagon",
       "category": "Tiere",
       "defname": "GR_ParagonInsectoid",
-      "price": 1242
+      "price": -10
     },
     {
       "abr": "largeelectrowomb",
@@ -12850,13 +12850,13 @@
       "abr": "lizardman",
       "category": "Tiere",
       "defname": "GR_Lizardman",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "lizardochs",
       "category": "Tiere",
       "defname": "GR_Lizardochs",
-      "price": 1475
+      "price": -10
     },
     {
       "abr": "lumpycheese",
@@ -12874,49 +12874,49 @@
       "abr": "manalope",
       "category": "Tiere",
       "defname": "GR_Manalope",
-      "price": 274
+      "price": -10
     },
     {
       "abr": "manbear",
       "category": "Tiere",
       "defname": "GR_Manbear",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "mancat",
       "category": "Tiere",
       "defname": "GR_Mancat",
-      "price": 792
+      "price": -10
     },
     {
       "abr": "manchicken",
       "category": "Tiere",
       "defname": "GR_Manchicken",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "manffalo",
       "category": "Tiere",
       "defname": "GR_Manffalo",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "manscarab",
       "category": "Tiere",
       "defname": "GR_Manscarab",
-      "price": 900
+      "price": -10
     },
     {
       "abr": "mansquirrel",
       "category": "Tiere",
       "defname": "GR_Mansquirrel",
-      "price": 316
+      "price": -10
     },
     {
       "abr": "mantistanis",
       "category": "Tiere",
       "defname": "GR_Mantistanis",
-      "price": 1792
+      "price": -10
     },
     {
       "abr": "mantistanisegg(fert.)",
@@ -12934,13 +12934,13 @@
       "abr": "manwolf",
       "category": "Tiere",
       "defname": "GR_Manwolf",
-      "price": 942
+      "price": -10
     },
     {
       "abr": "meadowlizard",
       "category": "Tiere",
       "defname": "GR_MeadowLizard",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "meadowlizardegg(fert.)",
@@ -12958,43 +12958,43 @@
       "abr": "mechabear",
       "category": "Tiere",
       "defname": "GR_Mechabear",
-      "price": 4967
+      "price": -10
     },
     {
       "abr": "mechacat",
       "category": "Tiere",
       "defname": "GR_Mechacat",
-      "price": 2817
+      "price": -10
     },
     {
       "abr": "mecha-chicken",
       "category": "Tiere",
       "defname": "GR_Mechachicken",
-      "price": 2475
+      "price": -10
     },
     {
       "abr": "mecha-horse",
       "category": "Tiere",
       "defname": "GR_Mechahorse",
-      "price": 3283
+      "price": -10
     },
     {
       "abr": "mechalope",
       "category": "Tiere",
       "defname": "GR_Mechalope",
-      "price": 5333
+      "price": -10
     },
     {
       "abr": "mecha-mime",
       "category": "Tiere",
       "defname": "GR_Mechamime",
-      "price": 3275
+      "price": -10
     },
     {
       "abr": "mecha-muffalo",
       "category": "Tiere",
       "defname": "GR_Mechamuffalo",
-      "price": 6467
+      "price": -10
     },
     {
       "abr": "mechanitebooster",
@@ -13018,7 +13018,7 @@
       "abr": "mechanoidmilk",
       "category": "Tierische Produkte",
       "defname": "GR_MechaMilk",
-      "price": 21
+      "price": -10
     },
     {
       "abr": "mechanoidwool",
@@ -13048,37 +13048,37 @@
       "abr": "mecha-rat",
       "category": "Tiere",
       "defname": "GR_Mecharat",
-      "price": 825
+      "price": -10
     },
     {
       "abr": "mechaspider",
       "category": "Tiere",
       "defname": "GR_Mechaspider",
-      "price": 6150
+      "price": -10
     },
     {
       "abr": "mechathrumbo",
       "category": "Tiere",
       "defname": "GR_Mechathrumbo",
-      "price": 6375
+      "price": -10
     },
     {
       "abr": "mechaturtle",
       "category": "Tiere",
       "defname": "GR_Mechaturtle",
-      "price": 3442
+      "price": -10
     },
     {
       "abr": "mechawolf",
       "category": "Tiere",
       "defname": "GR_Mechawolf",
-      "price": 3033
+      "price": -10
     },
     {
       "abr": "megafaunagenome",
       "category": "Genetic materials (tiers 2 and 3)",
       "defname": "GR_MegafaunaGenetic",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "megafaunagenomeexcavator",
@@ -13090,31 +13090,31 @@
       "abr": "molebear",
       "category": "Tiere",
       "defname": "GR_Molebear",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "molehorse",
       "category": "Tiere",
       "defname": "GR_Molehorse",
-      "price": 1342
+      "price": -10
     },
     {
       "abr": "moleman",
       "category": "Tiere",
       "defname": "GR_Moleman",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "muffalogenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_MuffaloGenetic",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "muffaloparagon",
       "category": "Tiere",
       "defname": "GR_ParagonMuffalo",
-      "price": 1517
+      "price": -10
     },
     {
       "abr": "muffalopelt",
@@ -13132,79 +13132,79 @@
       "abr": "muffalobear",
       "category": "Tiere",
       "defname": "GR_Muffalobear",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "muffalobearmilk",
       "category": "Tierische Produkte",
       "defname": "GR_MuffalobearMilk",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "muffalocat",
       "category": "Tiere",
       "defname": "GR_Muffalocat",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "muffalochicken",
       "category": "Tiere",
       "defname": "GR_Muffalochicken",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "muffalochickenmilk",
       "category": "Tierische Produkte",
       "defname": "GR_MuffalochickenMilk",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "muffalohorse",
       "category": "Tiere",
       "defname": "GR_Muffalohorse",
-      "price": 1375
+      "price": -10
     },
     {
       "abr": "muffalokomodo",
       "category": "Tiere",
       "defname": "GR_Muffalokomodo",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "muffaloman",
       "category": "Tiere",
       "defname": "GR_Muffaloman",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "muffalope",
       "category": "Tiere",
       "defname": "GR_Muffalope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "muffalopede",
       "category": "Tiere",
       "defname": "GR_Muffalopede",
-      "price": 983
+      "price": -10
     },
     {
       "abr": "muffalorat",
       "category": "Tiere",
       "defname": "GR_Muffalorat",
-      "price": 168
+      "price": -10
     },
     {
       "abr": "muffalowolf",
       "category": "Tiere",
       "defname": "GR_Muffalowolf",
-      "price": 775
+      "price": -10
     },
     {
       "abr": "needlechicken",
       "category": "Tiere",
       "defname": "GR_Needlechicken",
-      "price": 161
+      "price": -10
     },
     {
       "abr": "needlechickenegg(fert.)",
@@ -13222,7 +13222,7 @@
       "abr": "nighthrumbo",
       "category": "Tiere",
       "defname": "GR_Nighthrumbo",
-      "price": 2525
+      "price": -10
     },
     {
       "abr": "nighthrumboegg(fert.)",
@@ -13252,7 +13252,7 @@
       "abr": "paraceramuffalo",
       "category": "Tiere",
       "defname": "GR_Paraceramuffalo",
-      "price": 6175
+      "price": -10
     },
     {
       "abr": "paraceramuffalobrie",
@@ -13264,7 +13264,7 @@
       "abr": "paraceramuffalomilk",
       "category": "Tierische Produkte",
       "defname": "GR_ParaMilk",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "poisonampoule",
@@ -13282,13 +13282,13 @@
       "abr": "rabbitcat",
       "category": "Tiere",
       "defname": "GR_Rabbitcat",
-      "price": 975
+      "price": -10
     },
     {
       "abr": "rabbitchicken",
       "category": "Tiere",
       "defname": "GR_Rabbitchicken",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "ratcheese",
@@ -13300,13 +13300,13 @@
       "abr": "ratffalo",
       "category": "Tiere",
       "defname": "GR_Ratffalo",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "ratffalomilk",
       "category": "Tierische Produkte",
       "defname": "GR_RatMilk",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "registrierkasse",
@@ -13330,13 +13330,13 @@
       "abr": "reptilegenome",
       "category": "Genetic materials (tiers 2 and 3)",
       "defname": "GR_ReptileGenetic",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "reptileparagon",
       "category": "Tiere",
       "defname": "GR_ParagonIguana",
-      "price": 312
+      "price": -10
     },
     {
       "abr": "reptileparagonegg(fert.)",
@@ -13354,13 +13354,13 @@
       "abr": "rodentparagon",
       "category": "Tiere",
       "defname": "GR_ParagonRat",
-      "price": 181
+      "price": -10
     },
     {
       "abr": "rodent/leporidgenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_RodentGenetic",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "selbstzerstörungs-modul",
@@ -13372,7 +13372,7 @@
       "abr": "snakecat",
       "category": "Tiere",
       "defname": "GR_Snakecat",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "speedmodule",
@@ -13384,25 +13384,25 @@
       "abr": "spidercat",
       "category": "Tiere",
       "defname": "GR_Spidercat",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "spiderhorse",
       "category": "Tiere",
       "defname": "GR_Spiderhorse",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "spidersnake",
       "category": "Tiere",
       "defname": "GR_Spidersnake",
-      "price": 1125
+      "price": -10
     },
     {
       "abr": "squirralope",
       "category": "Tiere",
       "defname": "GR_Squirralope",
-      "price": 195
+      "price": -10
     },
     {
       "abr": "stabilizator",
@@ -13420,7 +13420,7 @@
       "abr": "templategenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_TemplateGenetic",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "tempobooster",
@@ -13444,25 +13444,25 @@
       "abr": "thrumbalope",
       "category": "Tiere",
       "defname": "GR_Thrumbalope",
-      "price": 5283
+      "price": -10
     },
     {
       "abr": "thrumbear",
       "category": "Tiere",
       "defname": "GR_Thrumbear",
-      "price": 6925
+      "price": -10
     },
     {
       "abr": "thrumbocat",
       "category": "Tiere",
       "defname": "GR_Thrumbocat",
-      "price": 2725
+      "price": -10
     },
     {
       "abr": "thrumbochicken",
       "category": "Tiere",
       "defname": "GR_Thrumbochicken",
-      "price": 4858
+      "price": -10
     },
     {
       "abr": "thrumbochickenegg(fert.)",
@@ -13480,37 +13480,37 @@
       "abr": "thrumbolizard",
       "category": "Tiere",
       "defname": "GR_Thrumbolizard",
-      "price": 8050
+      "price": -10
     },
     {
       "abr": "thrumboman",
       "category": "Tiere",
       "defname": "GR_Thrumboman",
-      "price": 6467
+      "price": -10
     },
     {
       "abr": "thrumborat",
       "category": "Tiere",
       "defname": "GR_Thrumborat",
-      "price": 4042
+      "price": -10
     },
     {
       "abr": "thrumbospider",
       "category": "Tiere",
       "defname": "GR_Thrumbospider",
-      "price": 3917
+      "price": -10
     },
     {
       "abr": "thrumdraeodon",
       "category": "Tiere",
       "defname": "GR_Thrumdraeodon",
-      "price": 2933
+      "price": -10
     },
     {
       "abr": "thrumffalo",
       "category": "Tiere",
       "defname": "GR_Thrumffalo",
-      "price": 5450
+      "price": -10
     },
     {
       "abr": "thrumffalogouda",
@@ -13522,19 +13522,19 @@
       "abr": "thrumffalomilk",
       "category": "Tierische Produkte",
       "defname": "GR_ThrumffaloMilk",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "thrumhorse",
       "category": "Tiere",
       "defname": "GR_Thrumhorse",
-      "price": 8100
+      "price": -10
     },
     {
       "abr": "thrumwolf",
       "category": "Tiere",
       "defname": "GR_Thrumwolf",
-      "price": 4367
+      "price": -10
     },
     {
       "abr": "tissuegrinder",
@@ -13552,7 +13552,7 @@
       "abr": "turkeyman",
       "category": "Tiere",
       "defname": "GR_Turkeyman",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "turkeymanegg(fert.)",
@@ -13570,13 +13570,13 @@
       "abr": "ursinegenome",
       "category": "Genetic materials (tier 1)",
       "defname": "GR_UrsineGenetic",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "ursineparagon",
       "category": "Tiere",
       "defname": "GR_ParagonBear",
-      "price": 1550
+      "price": -10
     },
     {
       "abr": "vanometrischesenergiezellen-modul",
@@ -13594,7 +13594,7 @@
       "abr": "weirdmilk",
       "category": "Tierische Produkte",
       "defname": "GR_WeirdMilk",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "wolfpelt",
@@ -13612,37 +13612,37 @@
       "abr": "wolfshrimp",
       "category": "Tiere",
       "defname": "GR_WolfShrimp",
-      "price": 1258
+      "price": -10
     },
     {
       "abr": "wolfalope",
       "category": "Tiere",
       "defname": "GR_Wolfalope",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "wolfbear",
       "category": "Tiere",
       "defname": "GR_Wolfbear",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "wolfbeaver",
       "category": "Tiere",
       "defname": "GR_Wolfbeaver",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "wolfcat",
       "category": "Tiere",
       "defname": "GR_Wolfcat",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "wolfchicken",
       "category": "Tiere",
       "defname": "GR_Wolfchicken",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "wolfchickenegg(fert.)",
@@ -13660,31 +13660,31 @@
       "abr": "wolffalo",
       "category": "Tiere",
       "defname": "GR_Wolffalo",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "wolfhorse",
       "category": "Tiere",
       "defname": "GR_Wolfhorse",
-      "price": 1350
+      "price": -10
     },
     {
       "abr": "wolfscarab",
       "category": "Tiere",
       "defname": "GR_Wolfscarab",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "wolfsnake",
       "category": "Tiere",
       "defname": "GR_Wolfsnake",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "woolywolf",
       "category": "Tiere",
       "defname": "GR_WoolyWolf",
-      "price": 2650
+      "price": -10
     },
     {
       "abr": "advancedscarletcollector",
@@ -13726,7 +13726,7 @@
       "abr": "bobeene",
       "category": "Tiere",
       "defname": "AA_Bobeene",
-      "price": 900
+      "price": -10
     },
     {
       "abr": "boomgenomegenetrainer",
@@ -14896,7 +14896,7 @@
       "abr": "rockconstruct",
       "category": "Tiere",
       "defname": "VPE_RockConstruct",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "rodentgenomegenetrainer",
@@ -14962,7 +14962,7 @@
       "abr": "skeleton",
       "category": "Tiere",
       "defname": "VPE_SummonedSkeleton",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "skyburialspot",
@@ -15016,7 +15016,7 @@
       "abr": "steelconstruct",
       "category": "Tiere",
       "defname": "VPE_SteelConstruct",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "synthesizerprecisionbooster",
@@ -15058,259 +15058,259 @@
       "abr": "raupe",
       "category": "Animal",
       "defname": "Mech_Centipede",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "lanzer",
       "category": "Animal",
       "defname": "Mech_Lancer",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "schnitter",
       "category": "Animal",
       "defname": "Mech_Scyther",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "pikenier",
       "category": "Animal",
       "defname": "Mech_Pikeman",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "termite",
       "category": "Animal",
       "defname": "Mech_Termite",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "aura",
       "category": "Animal",
       "defname": "AA_Aura",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "dolchschnauze",
       "category": "Animal",
       "defname": "AA_Daggersnout",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "zerstörer",
       "category": "Animal",
       "defname": "AA_Demolisher",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "feuerwurm",
       "category": "Animal",
       "defname": "AA_Fireworm",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "goliath",
       "category": "Animal",
       "defname": "AA_Goliath",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "phalanx",
       "category": "Animal",
       "defname": "AA_Phalanx",
-      "price": 1375
+      "price": -10
     },
     {
       "abr": "belagerungsbrecher",
       "category": "Animal",
       "defname": "AA_Siegebreaker",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "wardrone",
       "category": "Animal",
       "defname": "VFEP_Mech_Wardrone",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "spidermine",
       "category": "Animal",
       "defname": "VFEP_Mech_Spidermine",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "advancedcentipede",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedCentipede",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "advancedlancer",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedLancer",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "advancedknight",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedKnight",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "advancedinquisitor",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedInquisitor",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "advancedscyther",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedScyther",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "advancedpikeman",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedPikeman",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "advancedcarpenter",
       "category": "Animal",
       "defname": "VFE_Mech_AdvancedCarpenter",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "advancedtermite",
       "category": "Animal",
       "defname": "VFE_Mech_AdvTermite",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "carpenter",
       "category": "Animal",
       "defname": "VFE_AncientMech_AncientCarpenter",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "centipede",
       "category": "Animal",
       "defname": "VFE_Mech_Centipede",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "lancer",
       "category": "Animal",
       "defname": "VFE_Mech_Lancer",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "knight",
       "category": "Animal",
       "defname": "VFE_Mech_Knight",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "inquisitor",
       "category": "Animal",
       "defname": "VFE_Mech_Inquisitor",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "scyther",
       "category": "Animal",
       "defname": "VFE_Mech_Scyther",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "pikeman",
       "category": "Animal",
       "defname": "VFE_Mech_Pikeman",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "carpenter",
       "category": "Animal",
       "defname": "VFE_Mech_Carpenter",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "termite",
       "category": "Animal",
       "defname": "VFE_Mech_Termite",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "aura",
       "category": "Animal",
       "defname": "VFE_Mech_Aura",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "daggersnout",
       "category": "Animal",
       "defname": "VFE_Mech_Daggersnout",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "fireworm",
       "category": "Animal",
       "defname": "VFE_Mech_Fireworm",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "goliath",
       "category": "Animal",
       "defname": "VFE_Mech_Goliath",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "phalanx",
       "category": "Animal",
       "defname": "VFE_Mech_Phalanx",
-      "price": 1375
+      "price": -10
     },
     {
       "abr": "siegebreaker",
       "category": "Animal",
       "defname": "VFE_Mech_Siegebreaker",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "dominion",
       "category": "Animal",
       "defname": "VFE_Mech_Advanced_Aura",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "eviscerator",
       "category": "Animal",
       "defname": "VFE_Mech_Advanced_Daggersnout",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "incinerator",
       "category": "Animal",
       "defname": "VFE_Mech_Advanced_Fireworm",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "colossus",
       "category": "Animal",
       "defname": "VFE_Mech_Advanced_Goliath",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "hoplite",
       "category": "Animal",
       "defname": "VFE_Mech_Advanced_Phalanx",
-      "price": 1375
+      "price": -10
     },
     {
       "abr": "siegemaster",
       "category": "Animal",
       "defname": "VFE_Mech_Advanced_Siegebreaker",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "gäste-bett",
