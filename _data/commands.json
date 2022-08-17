@@ -35,6 +35,24 @@
     "shortcut": false,
     "defName": "WhatIsKarma"
   },
+   {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Pawn kaufen",
+    "usage": "!buy pawn",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Pawnkaufen"
+  },
   {
     "data": {
       "isShortcut": false,
