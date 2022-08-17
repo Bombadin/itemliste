@@ -3,42 +3,6 @@
     "data": {
       "isShortcut": false,
       "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Updates the current list of active viewers.",
-    "name": "Refresh viewers",
-    "usage": "!refreshviewers",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "RefreshViewers"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows the balance of a given user.",
-    "name": "Check user",
-    "usage": "!checkuser <viewer>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "CheckUser"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
       "isBalance": true,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
