@@ -39,19 +39,19 @@
     "data": {
       "isShortcut": false,
       "isBuy": false,
-      "isBalance": false,
+      "isBalance": true,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Standard ist ein Mensch. Unter Pawn Kinds gibts mehr Optionen. Die Entsprechung dann an den Command anfügen.",
-    "name": "Pawn kaufen",
+    "description": "Standard ist ein Mensch. Unter Pawn Kinds gibts mehr Optionen. Die Entsprechung dann anfügen.",
+    "name": "Check balance",
     "usage": "!buy pawn",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "Pawnkaufen"
+    "defName": "CheckBalance"
   },
   {
     "data": {
