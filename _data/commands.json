@@ -46,7 +46,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "standardmäßig ein Mensch. Für Androiden in den Reiter Pawn Kinds schauen und nach dem Befehl die jeweilige Entsprechung eingeben",
+    "description": "standardmäßig ein Mensch. Unter Pawn Kinds gibts mehr Optionen.",
     "name": "Pawn kaufen",
     "usage": "!buy pawn",
     "userLevel": "Anyone",
