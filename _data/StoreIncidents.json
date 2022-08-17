@@ -177,17 +177,17 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 700,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -199,11 +199,6 @@
 		"abr": "randominspire",
 		"price": 1500,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "cleartraits",
-		"price": 1,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "aeorofleetmigration",
@@ -227,7 +222,7 @@
 	},
 	{
 		"abr": "raidpoachers",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -311,5 +306,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 61
 }
