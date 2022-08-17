@@ -2194,8 +2194,8 @@
       },
       "defName": "ReunionCharacter",
       "name": "(reunion)ally",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 3
