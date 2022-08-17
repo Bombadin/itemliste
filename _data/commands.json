@@ -46,7 +46,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "standardmäßig ein Mensch. Für Androiden in den Reiter Pawn Kinds schauen und nach dem Befehl die jeweilige Entsprechung eingeben",
     "name": "Pawn kaufen",
     "usage": "!buy pawn",
     "userLevel": "Anyone",
@@ -100,12 +100,12 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Die Namen der Traits findest du im Reiter Traits.Maximale Traits: 4.",
+    "description": "Die Namen der Traits findest du im Reiter Traits. Maximale Traits: 4.",
     "name": "Trait kaufen",
     "usage": "!buy trait NamedesTraits",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "Buy"
+    "defName": "buytrait"
   },
        {
     "data": {
@@ -123,7 +123,7 @@
     "usage": "!buy removetrait NamedesTraits",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "Buy"
+    "defName": "removetrait"
   },
   {
     "data": {
