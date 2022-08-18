@@ -107,7 +107,7 @@
     "shortcut": false,
     "defName": "buytrait"
   },
-       {
+  {
     "data": {
       "isShortcut": false,
       "isBuy": true,
@@ -117,7 +117,7 @@
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
-    },
+   },
     "description": "Die Namen der Traits findest du im Reiter Traits.",
     "name": "Trait entfernen",
     "usage": "!buy removetrait NamedesTraits",
@@ -135,7 +135,7 @@
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
-    },
+   },
     "description": null,
     "name": "Instructions",
     "usage": "!instructions",
@@ -153,25 +153,7 @@
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "All commands",
-    "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AvailableCommands"
-  },
-   {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
+   },
     "description": "Damit änderst du dein Geschlecht",
     "name": "Geschlecht ändern",
     "usage": "!buy genderswap",
